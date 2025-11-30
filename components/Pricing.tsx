@@ -77,7 +77,7 @@ export default function Pricing() {
         >
           <div className="text-center mb-8">
             <span className="inline-block bg-violet-50 text-violet-600 text-sm font-semibold px-4 py-2 rounded-full mb-4">
-              Founder's Price
+              Founder&apos;s Price
             </span>
             <div className="flex items-baseline justify-center gap-2">
               <span className="text-5xl md:text-6xl font-bold tracking-tight text-slate-900">
@@ -116,5 +116,5 @@ export default function Pricing() {
         </motion.div>
       </div>
     </section>
-  </span>);
+  );
 }
